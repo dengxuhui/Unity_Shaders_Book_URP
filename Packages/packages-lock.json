@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.coffee.reference-finder": {
+      "version": "https://github.com/dengxuhui/ReferenceFinder.git#1.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0bc855edb6a125c03b8503cef3fbc699869cb064"
+    },
     "com.unity.burst": {
       "version": "1.8.2",
       "depth": 1,
